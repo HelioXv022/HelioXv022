@@ -1,4 +1,4 @@
-# Hi, I'm Ziqi Xu (Qiqi) 👋
+# Hi, I'm Ziqi Xu 👋
 
 Physicist & aspiring quantum software engineer, building research code at the intersection of **neural networks and quantum many-body physics**.
 
